@@ -3,20 +3,14 @@
 
 ---
 
-## 📌 Problem Statement
+##  Problem Statement
 Our team aims to analyze a real-world sports dataset to identify patterns and relationships that affect player performance and match outcomes. We apply statistical modeling and predictive techniques, including **Linear Regression**, **ANOVA**, and **Logistic Regression**, to generate actionable insights and support data-driven decision-making in sports.
 
 ---
 
-## 📁 Files in This Folder
 
-| File | Description |
-|------|-------------|
-| `week5_analysis.ipynb` | Main Jupyter Notebook — all Week 5 analysis code and outputs |
 
----
-
-## ✅ Week 5 Tasks Completed
+##  Week 5 Tasks
 
 ### 1. Descriptive Statistics
 - Summary statistics (mean, std, min, max, skewness, kurtosis)
@@ -50,7 +44,7 @@ Our team aims to analyze a real-world sports dataset to identify patterns and re
 
 ---
 
-## 📊 Key Results Summary
+##  Key Results Summary
 
 | Analysis | Result | Interpretation |
 |----------|--------|----------------|
@@ -61,7 +55,7 @@ Our team aims to analyze a real-world sports dataset to identify patterns and re
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 - **Batting Average** is the strongest predictor of overall performance
 - **Wickets** (bowling) is the second most important contributor
 - **Team** and **Experience** alone do NOT significantly affect performance
@@ -69,7 +63,7 @@ Our team aims to analyze a real-world sports dataset to identify patterns and re
 
 ---
 
-## 🛠️ Tools & Libraries Used
+##  Tools & Libraries Used
 - **Python 3.x** | **Jupyter Notebook** | **VS Code**
 - `numpy` `pandas` `matplotlib` `seaborn`
 - `scipy.stats` — t-test, ANOVA, Shapiro-Wilk, Levene
@@ -77,7 +71,7 @@ Our team aims to analyze a real-world sports dataset to identify patterns and re
 
 ---
 
-## 🚀 Next Steps (Week 6)
+##  Next Steps (Week 6)
 - Build on Week 5 models with Ridge/Lasso regularization
 - Try Random Forest & Gradient Boosting classifiers
 - Begin compiling the final project report
