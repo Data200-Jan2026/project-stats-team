@@ -1,161 +1,52 @@
-#  Project Report Draft
-## DATA-200 | Sports Analytics Project
-### Team: Project-Stats-Team
+# Project Report Draft
+## DATA-200 | Sports Analytics | Project-Stats-Team
 
-## 1. Introduction
+### Introduction
 
-Sports analytics has become a critical field in modern cricket, enabling teams to make data-driven decisions on player selection, match strategy, and performance optimization.
+For our DATA-200 project, our team chose Sports Analytics as the main topic. The goal was to work with a real-world sports dataset and find patterns that affect how players perform and whether a team wins or loses a match. We focused on cricket because it has rich performance data across batting, bowling, and fielding.
 
-This project analyzes a **300-player cricket dataset** across **5 international teams** to:
-- Identify key factors that drive player performance
-- Build predictive models for match outcomes
-- Apply statistical techniques to generate actionable insights
+Our dataset includes 300 players from five international teams — India, Australia, England, South Africa, and New Zealand. Each player has 11 variables recorded including batting average, strike rate, wickets, fielding score, and an overall performance score.
 
-**Project Topic:** Sports Analytics  
-**Dataset:** Cricket Player Performance Dataset (300 players, 11 variables)  
-**Tools:** Python, Jupyter Notebook, VS Code, GitHub  
+### Problem Statement
 
-## 2. Problem Statement
+Our team aims to analyze a real-world sports dataset to identify patterns and relationships that affect player performance and match outcomes. We apply statistical modeling and predictive techniques, including Linear Regression, ANOVA, and Logistic Regression, to generate actionable insights and support data-driven decision-making in sports.
 
-> *Our team aims to analyze a real-world sports dataset to identify patterns and relationships that affect player performance and match outcomes. We apply statistical modeling and predictive techniques, including Linear Regression, ANOVA, and Logistic Regression, to generate actionable insights and support data-driven decision-making in sports.*
+### Dataset Overview
 
-## 3. Dataset Description
+The dataset was built to simulate realistic cricket statistics. The key variables we worked with were batting average, strike rate, bowling average, wickets taken, fielding score, number of matches played, experience, an overall performance score, and a binary match outcome (win or loss). The performance score was calculated as a weighted combination of batting, bowling, and fielding contributions.
 
-| Variable | Description |
-|----------|-------------|
-| Player | Unique player identifier |
-| Team | One of 5 international cricket teams |
-| Matches | Total matches played |
-| Batting_Avg | Batting average (runs per dismissal) |
-| Strike_Rate | Batting strike rate |
-| Bowling_Avg | Bowling average |
-| Wickets | Total wickets taken |
-| Fielding_Score | Composite fielding score (50–100) |
-| Experience | Experience index |
-| Performance_Score | Overall composite score (target variable) |
-| Match_Won | Binary outcome: 1 = Win, 0 = Loss |
+### Methodology
 
-## 4. Methodology
+We followed a week-by-week approach throughout the project. Week 2 focused on reviewing existing literature on sports analytics and cricket data. Week 3 was exploratory data analysis where we looked at distributions, patterns, and initial relationships. Week 4 covered data cleaning and feature preparation. In Week 5 we ran all the main statistical tests and built our first regression models. Week 6 extended the modeling with regularization and ensemble methods and we began putting together this report.
 
-| Week | Task |
-|------|------|
-| Week 2 | Literature Review |
-| Week 3 | Exploratory Data Analysis (EDA) |
-| Week 4 | Data Cleaning & Feature Engineering |
-| Week 5 | Descriptive Stats, t-Test, ANOVA, Linear & Logistic Regression |
-| Week 6 | Ridge, Lasso, Random Forest, Gradient Boosting, Model Comparison |
+### Week 5 Results
 
+We started with descriptive statistics to understand the data. The average batting score across all players was 34.55 and the average performance score was 53.44. Most variables followed an approximately normal distribution which confirmed our data was suitable for parametric testing.
 
-## 5. Week 5 – Statistical Analysis Results
+For hypothesis testing we ran two tests. The first was an independent samples t-test to check whether players with more experience performed significantly better. The result was t = 0.870 and p = 0.385 which means we failed to reject the null hypothesis. Experience alone does not significantly predict performance. The second test was a one-way ANOVA across the five teams. The result was F = 1.510 and p = 0.199 which again showed no significant difference between teams. This was an interesting finding because it means the team a player belongs to does not determine their individual performance level.
 
-### 5.1 Descriptive Statistics
+We also ran a Pearson correlation analysis. Batting average had the strongest positive correlation with performance score at r = 0.40 followed by wickets at r = 0.35. Bowling average had almost no correlation at r = -0.03.
 
-| Variable | Mean | Std Dev | Min | Max |
-|----------|------|---------|-----|-----|
-| Batting_Avg | 34.55 | 15.30 | 5.00 | 81.18 |
-| Strike_Rate | 76.71 | 19.00 | 30.00 | 127.65 |
-| Bowling_Avg | 31.29 | 9.63 | 15.00 | 55.80 |
-| Wickets | 55.82 | 35.21 | 0 | 119 |
-| Performance_Score | 53.44 | 13.77 | 18.97 | 90.88 |
+For regression our linear regression model achieved an R² of 0.827 which means it explained 82.7% of the variance in performance score. The RMSE was 4.906. Batting average was the strongest predictor with a coefficient of +0.383 followed by wickets at +0.301. For classification logistic regression achieved 81.7% accuracy and an AUC of 0.972 when predicting match outcomes.
 
-### 5.2 Correlation Analysis
+### Week 6 Results
 
-| Variable Pair | Pearson r | Strength |
-|---------------|-----------|----------|
-| Batting_Avg ↔ Performance_Score | +0.40 | Moderate Positive |
-| Wickets ↔ Performance_Score | +0.35 | Moderate Positive |
-| Strike_Rate ↔ Performance_Score | +0.22 | Weak-Moderate |
-| Bowling_Avg ↔ Performance_Score | -0.03 | Negligible |
+In Week 6 we built on the Week 5 models by adding regularization and ensemble methods. We tested Ridge regression with alpha 10, Lasso regression with alpha 0.5, and a Random Forest regressor. Lasso performed the best with R² = 0.828 and RMSE = 4.894, a slight improvement over the base linear model. Random Forest actually performed worse at R² = 0.732 which suggests the linear relationship between features and performance score is strong enough that a simpler model works better here.
 
-### 5.3 Hypothesis Testing
+For classification we added Random Forest and Gradient Boosting classifiers. Logistic regression from Week 5 still came out on top with 88.3% accuracy and AUC = 0.972. Random Forest got 85.0% and Gradient Boosting got 80.0%. We also looked at feature importance from the Random Forest models which confirmed that batting average and wickets are consistently the most important features across both regression and classification tasks.
 
-#### t-Test (Experience vs Performance)
-- **H₀:** No significant difference between experience groups
-- **H₁:** Significant difference exists
-- **Result:** t = 0.870, p = 0.385 → **Fail to Reject H₀**
-- **Conclusion:** Experience alone does NOT significantly predict performance
+### Key Insights
 
-#### One-Way ANOVA (Teams vs Performance)
-- **H₀:** All team means are equal
-- **H₁:** At least one team differs
-- **Result:** F = 1.510, p = 0.199 → **Fail to Reject H₀**
-- **Conclusion:** No significant performance difference across teams
+The most important finding is that batting average is the single strongest driver of overall player performance. Players who bat well tend to have higher composite scores regardless of their team or experience level. Wickets came in second which highlights that all-round players who contribute both with the bat and ball are the most valuable.
 
-### 5.4 Linear Regression
+We were surprised that team affiliation and experience had no significant statistical effect on performance. This tells us that individual skill matters far more than which team you play for or how long you have been playing.
 
-| Metric | Value |
-|--------|-------|
-| R² Score | 0.827 |
-| RMSE | 4.906 |
-| CV R² (5-fold) | 0.82 ± 0.04 |
-| Top Predictor | Batting_Avg (coef = +0.383) |
+Our best models were Lasso regression for predicting performance score and logistic regression for predicting match outcomes. Both performed consistently well across cross-validation which gives us confidence they would generalize to new data.
 
-### 5.5 Logistic Regression
+### Conclusions
 
-| Metric | Value |
-|--------|-------|
-| Accuracy | 81.7% |
-| ROC-AUC | 0.972 |
-| F1-Score (Win) | 0.84 |
+This project showed that statistical modeling can effectively explain and predict sports performance. We achieved over 82% explained variance in performance prediction and over 88% accuracy in match outcome classification. The results support our original problem statement that data-driven approaches can generate meaningful insights for decision-making in sports.
 
+Going forward we would like to validate these models on real IPL or ICC datasets, apply hyperparameter tuning using GridSearchCV, and expand the feature set to include match conditions like pitch type and weather.
 
-## 6. Week 6 – Advanced Modeling Results
-
-### 6.1 Regression Model Comparison
-
-| Model | R² | RMSE | CV R² |
-|-------|----|------|-------|
-| Linear Regression (Week 5) | 0.827 | 4.906 | 0.82 |
-| Ridge (α=10) | 0.827 | 4.906 | 0.82 |
-| **Lasso (α=0.5) ⭐ Best** | **0.828** | **4.894** | **0.82** |
-| Random Forest | 0.732 | 6.106 | 0.71 |
-
-### 6.2 Classification Model Comparison
-
-| Model | Accuracy | AUC | CV Acc |
-|-------|----------|-----|--------|
-| **Logistic Regression ⭐ Best** | **88.3%** | **0.972** | **86%** |
-| Random Forest | 85.0% | 0.928 | 83% |
-| Gradient Boosting | 80.0% | 0.919 | 80% |
-
-### 6.3 Feature Importance (Random Forest)
-
-| Feature | Importance |
-|---------|------------|
-| Batting_Avg | Highest |
-| Wickets | 2nd |
-| Strike_Rate | 3rd |
-| Fielding_Score | 4th |
-| Matches | 5th |
-
-## 7. Key Insights
-
-1. **Batting Average** is the single strongest predictor of performance (coef = +0.383)
-2. **Wickets (Bowling)** is the second most important contributor
-3. **Team affiliation** does NOT significantly affect performance (ANOVA p = 0.199)
-4. **Experience alone** does NOT predict performance (t-test p = 0.385)
-5. **Lasso Regression** is the best regression model (R² = 0.828)
-6. **Logistic Regression** is the best classifier (Accuracy = 88.3%, AUC = 0.972)
-7. **All-round players** (high batting + high wickets) score highest consistently
-8. Statistical models **can reliably predict** match outcomes
-
----
-
-## 8. Conclusions
-
-- Individual skill (batting + bowling) drives player performance, not team or experience
-- Statistical modeling is highly effective for sports performance prediction
-- Lasso regularization slightly improves regression generalization
-- The project validates the hypothesis that data-driven insights support better decision-making in sports
-
-
-## 9. Next Steps (Final Report)
-
-- [ ] Validate models on real IPL / ICC cricket datasets
-- [ ] Hyperparameter tuning with GridSearchCV
-- [ ] Write full discussion & recommendations section
-- [ ] Add all visualizations to the final report document
-- [ ] Submit final project report
-
-
-*Report Draft – DATA-200 | Project-Stats-Team | February 2026*
+*DATA-200 | Project-Stats-Team | February 2026*
