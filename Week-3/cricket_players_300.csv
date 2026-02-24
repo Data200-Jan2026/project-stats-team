@@ -1,0 +1,301 @@
+Player,Team,Matches,Batting_Avg,Strike_Rate,Bowling_Avg,Wickets,Fielding_Score,Experience,Performance_Score,Match_Won,Rating
+Virat Kohli,India,40,42.45,58.42,37.57,30,61.0,4.08,43.38,0,Average
+Rohit Sharma,India,73,32.93,63.8,20.78,81,98.8,6.87,63.28,1,Good
+MS Dhoni,India,35,44.72,89.95,38.7,99,66.8,3.41,75.16,1,Elite
+Sachin Tendulkar,India,51,57.85,87.21,43.56,1,59.1,5.61,52.79,0,Average
+Sourav Ganguly,India,59,31.49,74.58,34.13,77,89.5,6.0,55.5,1,Good
+Rahul Dravid,India,66,31.49,77.35,48.77,76,82.9,6.0,61.1,1,Good
+Anil Kumble,India,34,58.69,100.55,22.26,92,74.9,3.7,82.31,1,Elite
+Kapil Dev,India,59,46.51,63.17,17.55,11,77.8,6.28,38.95,0,Below Average
+Sunil Gavaskar,India,20,27.96,85.94,15.0,38,86.0,1.82,47.33,0,Average
+Yuvraj Singh,India,16,43.14,70.96,44.96,65,61.4,1.91,48.34,0,Average
+Shikhar Dhawan,India,21,28.05,70.65,36.54,95,99.8,2.22,68.36,1,Good
+KL Rahul,India,20,28.01,96.98,29.44,12,98.7,1.9,42.99,0,Average
+Hardik Pandya,India,16,38.63,91.51,32.8,45,82.5,0.95,59.54,1,Good
+Jasprit Bumrah,India,12,6.3,91.27,18.75,26,60.0,1.74,35.6,0,Below Average
+Ravindra Jadeja,India,7,9.13,101.11,54.46,112,84.0,1.08,64.95,1,Good
+Ravichandran Ashwin,India,20,26.57,75.42,31.29,104,53.6,2.29,54.31,0,Average
+Mohammed Shami,India,34,19.81,88.64,31.09,16,51.5,4.17,28.53,0,Below Average
+Shreyas Iyer,India,27,39.71,68.79,37.26,103,62.9,3.17,53.87,0,Average
+Rishabh Pant,India,9,21.38,81.48,34.81,94,73.1,1.24,57.54,1,Good
+Axar Patel,India,69,13.82,72.4,32.24,97,93.4,5.79,69.84,1,Good
+Bhuvneshwar Kumar,India,34,56.98,76.94,22.1,59,86.4,4.0,58.08,1,Good
+Kuldeep Yadav,India,25,31.61,86.9,34.71,63,87.1,2.54,44.48,0,Average
+Yuzvendra Chahal,India,74,36.01,58.64,48.82,87,71.3,7.56,64.18,1,Good
+Prithvi Shaw,India,26,13.63,116.85,43.45,108,67.3,2.76,79.77,1,Elite
+Mayank Agarwal,India,76,26.83,54.88,45.93,34,68.6,7.99,40.26,0,Average
+Ajinkya Rahane,India,36,36.66,50.72,24.89,111,99.4,4.16,69.49,1,Good
+Cheteshwar Pujara,India,37,17.74,98.16,20.1,69,52.0,4.02,51.08,0,Average
+Wriddhiman Saha,India,20,40.64,90.83,28.74,82,93.4,2.24,59.39,1,Good
+Ishant Sharma,India,42,25.99,87.48,30.56,29,78.9,4.32,37.23,0,Below Average
+Umesh Yadav,India,18,30.62,87.57,40.94,70,71.9,0.12,56.37,1,Good
+Mohammad Kaif,India,40,25.97,74.76,15.0,73,86.3,3.86,53.33,0,Average
+VVS Laxman,India,27,62.78,57.05,45.3,104,74.3,2.23,74.58,1,Elite
+Zaheer Khan,India,70,34.8,76.52,28.42,95,93.7,7.61,71.24,1,Elite
+Harbhajan Singh,India,6,19.13,61.46,25.73,97,95.0,0.91,55.63,1,Good
+Irfan Pathan,India,77,47.34,94.5,19.88,62,71.1,7.47,67.79,1,Good
+Virender Sehwag,India,69,16.69,72.06,15.0,27,63.8,6.72,32.69,0,Below Average
+Gautam Gambhir,India,79,38.13,58.49,38.23,59,79.6,7.7,57.8,1,Good
+Dinesh Karthik,India,71,5.6,68.57,30.73,78,95.6,6.89,49.35,0,Average
+Suresh Raina,India,56,15.08,83.26,17.1,93,60.5,4.88,54.45,0,Average
+Ambati Rayudu,India,66,37.95,63.73,17.05,36,81.1,5.77,47.18,0,Average
+Shardul Thakur,India,27,46.08,58.56,26.64,92,81.6,2.71,64.44,1,Good
+Deepak Chahar,India,30,37.57,79.87,46.69,21,86.7,3.54,46.54,0,Average
+Navdeep Saini,India,72,33.27,79.9,27.4,67,56.6,6.93,58.84,1,Good
+Mohammed Siraj,India,59,30.48,64.86,15.0,19,85.8,6.05,39.01,0,Below Average
+Hanuma Vihari,India,10,12.82,65.58,27.54,95,95.5,1.37,54.45,0,Average
+Sanju Samson,India,39,24.2,79.64,27.27,99,59.0,3.4,55.59,1,Good
+Ruturaj Gaikwad,India,26,28.09,46.04,15.0,113,61.9,2.59,63.43,1,Good
+Devdutt Padikkal,India,47,50.86,46.85,29.46,67,98.6,4.37,61.42,1,Good
+Ishan Kishan,India,19,40.15,60.63,27.69,90,59.0,2.7,55.18,1,Good
+Venkatesh Iyer,India,64,8.55,70.73,36.96,63,92.7,7.18,49.91,0,Average
+Shubman Gill,India,16,39.86,81.22,48.49,16,74.6,1.1,38.46,0,Below Average
+Suryakumar Yadav,India,53,29.22,104.51,41.27,11,62.4,5.49,47.28,0,Average
+Deepak Hooda,India,46,24.85,92.15,27.31,21,93.5,5.13,47.46,0,Average
+Ravi Bishnoi,India,42,44.18,71.8,18.93,16,72.3,4.62,46.16,0,Average
+Harshal Patel,India,49,50.46,74.62,55.73,9,75.7,4.94,43.49,0,Average
+Arshdeep Singh,India,39,48.97,54.95,30.59,117,68.0,4.55,75.36,1,Elite
+Mukesh Kumar,India,34,22.41,74.63,30.14,64,79.6,2.95,56.43,1,Good
+Tilak Varma,India,34,30.36,69.23,29.76,21,58.2,3.25,41.07,0,Average
+Rinku Singh,India,10,39.97,81.45,31.98,89,69.6,0.56,62.59,1,Good
+Yashasvi Jaiswal,India,71,49.63,58.46,28.56,119,98.5,7.49,78.43,1,Elite
+Steve Smith,Australia,11,27.81,85.39,24.26,81,62.9,0.81,64.45,1,Good
+David Warner,Australia,56,32.22,105.65,24.53,49,82.8,5.51,67.99,1,Good
+Pat Cummins,Australia,18,18.4,72.82,29.67,13,66.3,2.11,31.43,0,Below Average
+Mitchell Starc,Australia,77,17.06,83.03,24.57,63,88.7,8.05,55.49,1,Good
+Nathan Lyon,Australia,19,47.19,88.8,22.87,46,56.5,1.45,61.76,1,Good
+Glenn Maxwell,Australia,25,55.34,66.98,31.06,28,98.5,3.03,49.72,0,Average
+Adam Gilchrist,Australia,39,33.92,79.48,27.45,75,72.7,4.13,68.14,1,Good
+Ricky Ponting,Australia,70,50.05,75.25,45.04,35,61.8,6.46,46.42,0,Average
+Shane Warne,Australia,6,40.42,76.95,15.0,98,53.7,-0.06,70.37,1,Elite
+Brett Lee,Australia,39,25.32,59.54,40.92,51,58.5,3.89,44.71,0,Average
+Matthew Hayden,Australia,24,40.42,75.49,42.46,75,76.0,2.83,61.64,1,Good
+Justin Langer,Australia,14,58.07,84.96,15.0,6,66.9,1.84,61.44,1,Good
+Damien Martyn,Australia,29,34.46,104.02,26.57,28,91.4,3.08,50.62,0,Average
+Michael Clarke,Australia,70,58.47,94.19,26.29,10,71.5,7.02,50.79,0,Average
+Andrew Symonds,Australia,29,5.0,118.06,15.92,32,62.4,3.16,48.11,0,Average
+Brad Haddin,Australia,58,47.33,59.65,22.22,5,80.9,5.37,44.26,0,Average
+Mitchell Johnson,Australia,37,36.31,92.45,18.89,110,85.3,4.54,80.95,1,Elite
+Peter Siddle,Australia,40,30.51,78.67,47.52,78,58.4,4.84,57.76,1,Good
+James Faulkner,Australia,18,36.38,118.8,39.36,31,58.4,2.01,55.04,1,Good
+Shane Watson,Australia,69,5.19,58.83,42.72,50,51.8,7.0,43.53,0,Average
+Aaron Finch,Australia,58,31.7,58.21,37.22,74,86.8,5.59,51.02,0,Average
+Marnus Labuschagne,Australia,56,40.36,63.01,18.71,57,83.2,5.86,53.65,0,Average
+Travis Head,Australia,7,57.17,32.52,24.75,86,73.7,0.35,66.53,1,Good
+Cameron Green,Australia,45,27.23,64.48,34.89,25,92.2,3.39,39.53,0,Below Average
+Josh Hazlewood,Australia,10,22.87,59.82,17.78,97,90.3,-0.36,56.39,1,Good
+Alex Carey,Australia,29,27.47,78.01,37.13,45,79.3,2.5,51.11,0,Average
+Matthew Wade,Australia,17,48.73,81.84,27.6,97,93.4,1.78,80.98,1,Elite
+David Hussey,Australia,12,39.93,112.52,26.25,28,60.3,1.37,52.2,0,Average
+Michael Hussey,Australia,25,27.05,94.01,37.11,3,55.6,2.26,35.24,0,Below Average
+Simon Katich,Australia,72,42.7,63.46,34.44,80,63.5,7.27,56.88,1,Good
+Jason Gillespie,Australia,29,36.46,57.03,26.39,98,52.9,2.76,59.2,1,Good
+Stuart MacGill,Australia,72,49.53,84.84,41.59,12,76.6,6.7,53.46,0,Average
+Brad Hogg,Australia,49,24.47,48.6,19.19,104,96.8,4.87,60.79,1,Good
+Andrew McDonald,Australia,64,30.09,111.63,36.16,38,52.0,6.81,46.94,0,Average
+Tim Paine,Australia,16,29.12,98.59,35.93,14,56.1,1.12,42.49,0,Average
+Usman Khawaja,Australia,36,13.05,65.62,26.9,118,72.6,3.12,66.26,1,Good
+Chris Lynn,Australia,17,39.44,40.74,33.26,28,96.7,1.17,39.18,0,Below Average
+Ben McDermott,Australia,35,38.92,102.08,17.49,28,65.8,2.53,44.32,0,Average
+Ashton Agar,Australia,24,35.08,72.71,39.24,74,75.4,2.16,69.27,1,Good
+Adam Zampa,Australia,22,31.48,99.76,28.15,115,52.1,2.56,65.36,1,Good
+Sean Abbott,Australia,64,13.77,43.11,24.77,31,57.4,6.49,27.37,0,Below Average
+Daniel Sams,Australia,67,28.69,63.01,40.49,1,99.3,6.62,35.47,0,Below Average
+Marcus Stoinis,Australia,10,29.86,75.1,22.96,46,98.3,1.06,49.23,0,Average
+Matthew Short,Australia,36,22.97,75.94,15.92,77,50.2,3.36,52.12,0,Average
+Josh Inglis,Australia,47,32.58,66.0,15.0,83,97.6,3.73,63.78,1,Good
+Lance Morris,Australia,6,41.06,87.46,36.06,21,82.0,0.99,36.46,0,Below Average
+Todd Murphy,Australia,64,63.29,53.65,17.2,74,93.4,6.94,61.25,1,Good
+Scott Boland,Australia,27,37.62,72.15,47.55,26,72.7,2.34,44.77,0,Average
+Jhye Richardson,Australia,35,38.86,77.41,15.0,66,75.8,3.42,56.38,1,Good
+Michael Neser,Australia,9,33.88,85.29,46.96,80,74.4,0.78,62.7,1,Good
+Nathan Ellis,Australia,38,6.22,89.23,32.11,107,83.3,3.98,61.9,1,Good
+Riley Meredith,Australia,14,34.6,52.51,29.03,55,57.0,2.24,35.96,0,Below Average
+Xavier Bartlett,Australia,6,35.9,44.32,24.55,91,51.5,1.18,62.04,1,Good
+Matt Renshaw,Australia,15,71.95,100.55,33.99,92,65.4,1.31,80.54,1,Elite
+Peter Handscomb,Australia,54,32.11,81.65,29.62,20,85.2,5.67,39.37,0,Below Average
+Nic Maddinson,Australia,35,39.52,60.03,41.03,46,60.1,4.13,48.67,0,Average
+Callum Ferguson,Australia,60,34.48,106.02,31.14,79,83.7,6.2,67.6,1,Good
+Tim David,Australia,77,17.47,77.31,31.5,100,98.5,7.7,68.28,1,Good
+Jake Fraser-McGurk,Australia,13,52.14,98.59,26.36,58,54.7,1.52,64.8,1,Good
+Cooper Connolly,Australia,25,46.28,76.35,29.43,83,83.6,2.15,72.83,1,Elite
+Joe Root,England,77,46.87,116.21,33.08,5,72.2,7.42,46.02,0,Average
+Ben Stokes,England,32,21.36,110.11,15.0,18,93.4,2.67,46.02,0,Average
+James Anderson,England,66,56.04,70.02,16.52,56,58.9,6.75,53.54,0,Average
+Stuart Broad,England,11,13.97,94.43,37.43,68,84.6,1.03,53.82,0,Average
+Jonny Bairstow,England,20,43.8,87.91,31.71,2,91.9,1.59,44.32,0,Average
+Kevin Pietersen,England,8,67.86,102.37,28.16,0,97.2,0.72,56.55,1,Good
+Andrew Flintoff,England,8,20.14,55.7,30.18,57,84.2,1.03,43.97,0,Average
+Alastair Cook,England,44,26.51,88.72,33.48,37,74.9,5.36,50.62,0,Average
+Ian Bell,England,21,36.49,96.17,24.6,14,80.9,2.61,38.08,0,Below Average
+Graeme Swann,England,56,27.45,39.83,22.22,33,93.4,4.46,33.69,0,Below Average
+Eoin Morgan,England,56,11.74,51.33,31.96,60,78.5,5.72,40.61,0,Average
+Jos Buttler,England,40,36.03,34.22,20.22,34,51.5,4.71,30.71,0,Below Average
+Chris Woakes,England,42,19.07,69.61,34.08,63,96.5,3.53,50.33,0,Average
+Mark Wood,England,54,42.1,89.35,15.0,112,84.5,5.68,76.51,1,Elite
+Jofra Archer,England,67,21.21,105.05,40.29,24,83.8,6.58,38.06,0,Below Average
+Sam Curran,England,67,58.25,76.48,34.73,23,60.8,7.28,44.31,0,Average
+Tom Curran,England,66,23.25,107.57,32.56,11,82.9,6.8,29.29,0,Below Average
+Moeen Ali,England,11,30.17,47.4,39.83,17,69.7,0.66,27.51,0,Below Average
+Adil Rashid,England,31,47.2,40.93,46.65,14,82.6,3.0,39.6,0,Below Average
+Dawid Malan,England,18,16.54,73.89,40.14,107,55.3,1.73,59.8,1,Good
+Jason Roy,England,75,38.41,82.68,15.0,79,82.9,7.44,64.9,1,Good
+Alex Hales,England,9,54.61,74.35,17.2,26,100.0,1.46,50.62,0,Average
+Zak Crawley,England,59,10.89,33.65,23.75,71,52.4,5.48,37.53,0,Below Average
+Ben Duckett,England,6,37.77,73.22,30.26,59,98.9,1.1,59.33,1,Good
+Ollie Pope,England,66,38.9,48.91,35.18,45,70.3,6.45,39.53,0,Below Average
+Harry Brook,England,25,46.73,88.39,22.74,88,93.5,2.61,72.74,1,Elite
+Liam Livingstone,England,25,16.45,82.33,31.87,16,89.1,2.54,40.04,0,Average
+Phil Salt,England,14,15.19,56.2,22.45,92,78.4,1.39,50.3,0,Average
+Will Jacks,England,62,42.83,64.72,23.88,52,86.9,6.19,59.68,1,Good
+Matthew Potts,England,43,39.45,53.82,15.93,7,93.9,5.03,35.7,0,Below Average
+Olly Stone,England,9,38.76,73.75,20.77,78,70.2,1.32,56.37,1,Good
+Craig Overton,England,69,40.2,94.1,16.48,26,66.4,6.72,52.12,0,Average
+Jamie Overton,England,17,24.8,55.29,20.24,45,83.4,2.49,52.98,0,Average
+Jack Leach,England,57,38.48,85.08,40.54,49,90.4,5.84,56.57,1,Good
+Reece Topley,England,49,39.4,64.39,20.51,115,88.1,5.08,75.12,1,Elite
+David Willey,England,36,24.28,59.14,56.32,70,89.9,3.18,48.99,0,Average
+Tymal Mills,England,40,62.99,72.86,34.93,2,71.8,3.75,41.34,0,Average
+Tom Hartley,England,64,42.11,54.3,31.85,92,90.9,6.06,65.23,1,Good
+Shoaib Bashir,England,15,17.13,63.93,21.42,63,56.0,1.54,45.76,0,Average
+Gus Atkinson,England,67,44.85,51.04,37.0,43,77.2,7.02,46.98,0,Average
+Dan Lawrence,England,25,20.38,114.29,24.24,52,50.3,2.68,54.8,0,Average
+James Vince,England,56,46.81,75.71,31.22,23,66.2,6.39,44.12,0,Average
+Dom Sibley,England,59,52.38,61.01,55.6,59,68.3,5.46,53.17,0,Average
+Rory Burns,England,30,22.69,79.28,29.04,2,69.8,3.06,37.82,0,Below Average
+Nick Compton,England,72,49.45,72.75,41.49,19,84.8,6.56,53.84,0,Average
+Jonathan Trott,England,38,41.19,70.58,22.97,45,69.4,3.34,47.86,0,Average
+Paul Collingwood,England,56,47.33,87.28,29.65,14,72.4,6.23,56.42,1,Good
+Matt Prior,England,56,63.45,90.15,47.71,24,61.9,5.37,55.36,1,Good
+Tim Bresnan,England,33,31.32,64.39,23.73,93,68.7,2.9,60.6,1,Good
+Steve Harmison,England,42,23.69,63.48,48.12,77,61.4,3.14,50.99,0,Average
+Matthew Hoggard,England,46,21.66,69.5,37.08,70,53.7,4.19,51.55,0,Average
+Simon Jones,England,25,22.76,30.0,24.38,16,80.2,2.4,29.28,0,Below Average
+Ryan Sidebottom,England,46,33.84,44.7,36.32,107,83.4,3.92,64.21,1,Good
+Monty Panesar,England,17,40.12,102.34,39.73,83,81.0,1.57,64.42,1,Good
+Samit Patel,England,68,39.15,107.9,36.22,99,73.2,7.44,65.82,1,Good
+Ravi Bopara,England,21,47.41,70.02,15.0,8,69.0,1.75,47.98,0,Average
+Luke Wright,England,13,35.2,86.53,22.73,37,93.2,0.83,49.08,0,Average
+Michael Lumb,England,45,56.8,81.23,27.52,47,76.0,3.94,60.42,1,Good
+Nick Gubbins,England,5,31.03,136.58,29.26,59,74.0,-0.07,66.46,1,Good
+Jordan Cox,England,6,75.8,97.39,36.21,62,51.3,0.87,81.67,1,Elite
+AB de Villiers,South Africa,64,44.39,72.44,31.78,85,67.1,6.42,65.26,1,Good
+Jacques Kallis,South Africa,52,22.14,55.89,16.65,117,69.0,5.68,60.06,1,Good
+Graeme Smith,South Africa,33,18.94,42.87,33.8,116,69.9,4.31,55.32,1,Good
+Dale Steyn,South Africa,14,42.24,79.07,36.11,116,79.0,0.48,75.22,1,Elite
+Hashim Amla,South Africa,62,31.65,59.87,35.6,1,76.7,6.39,28.06,0,Below Average
+Morne Morkel,South Africa,64,45.71,46.55,40.81,87,80.4,5.84,61.88,1,Good
+Vernon Philander,South Africa,25,42.1,62.07,38.34,71,88.2,2.89,59.11,1,Good
+Faf du Plessis,South Africa,32,33.91,53.37,34.59,10,90.6,3.06,44.51,0,Average
+Quinton de Kock,South Africa,79,22.3,108.74,29.3,63,85.9,7.91,57.74,1,Good
+Kagiso Rabada,South Africa,38,12.28,92.63,15.0,76,97.8,3.16,46.4,0,Average
+Allan Donald,South Africa,12,28.3,74.84,34.3,80,50.9,0.99,68.75,1,Good
+Shaun Pollock,South Africa,63,47.85,104.6,32.08,71,59.8,6.34,72.12,1,Elite
+Gary Kirsten,South Africa,76,38.21,76.55,32.72,20,50.4,8.28,52.05,0,Average
+Herschelle Gibbs,South Africa,53,16.31,57.77,17.23,17,82.4,4.9,25.63,0,Below Average
+Lance Klusener,South Africa,21,37.6,105.46,19.19,93,94.9,1.82,72.41,1,Elite
+Mark Boucher,South Africa,64,40.78,85.78,40.53,63,62.2,6.87,61.96,1,Good
+Jonty Rhodes,South Africa,49,21.74,54.26,29.6,81,96.4,4.47,56.17,1,Good
+Temba Bavuma,South Africa,73,37.31,71.19,36.82,109,53.0,7.87,68.7,1,Good
+Aiden Markram,South Africa,36,35.87,57.49,30.28,110,96.7,3.6,57.52,1,Good
+Rassie van der Dussen,South Africa,48,17.86,47.34,30.3,94,67.6,4.95,43.01,0,Average
+David Miller,South Africa,69,40.37,93.52,39.38,37,55.1,7.08,59.05,1,Good
+Heinrich Klaasen,South Africa,12,43.41,113.19,24.84,31,74.3,0.89,65.21,1,Good
+Marco Jansen,South Africa,76,51.25,47.03,30.96,10,62.8,7.79,38.65,0,Below Average
+Anrich Nortje,South Africa,47,50.81,86.26,25.38,44,64.2,4.31,64.15,1,Good
+Lungi Ngidi,South Africa,5,14.33,61.99,25.66,88,65.4,0.25,45.95,0,Average
+Wayne Parnell,South Africa,55,20.93,65.26,26.91,32,90.2,5.78,36.07,0,Below Average
+Keshav Maharaj,South Africa,28,42.73,63.15,32.22,101,77.0,2.95,62.21,1,Good
+Tabraiz Shamsi,South Africa,28,42.71,57.72,25.21,40,65.6,2.76,42.94,0,Average
+Ryan Rickelton,South Africa,21,42.73,75.97,42.56,7,80.5,1.47,46.05,0,Average
+Tristan Stubbs,South Africa,9,90.0,58.38,21.05,10,85.8,0.4,54.94,0,Average
+Reeza Hendricks,South Africa,24,43.56,80.41,28.13,85,63.6,2.54,76.56,1,Elite
+Tony de Zorzi,South Africa,25,52.03,74.0,25.6,50,70.7,2.87,59.98,1,Good
+Gerald Coetzee,South Africa,62,49.31,70.22,44.47,87,56.1,5.65,70.9,1,Elite
+Nandre Burger,South Africa,35,44.77,56.85,31.97,40,59.1,3.08,49.64,0,Average
+Ottneil Baartman,South Africa,15,30.27,63.46,40.32,16,84.1,1.57,44.08,0,Average
+Wiaan Mulder,South Africa,56,46.38,90.11,15.14,75,59.1,5.66,60.64,1,Good
+Senuran Muthusamy,South Africa,19,23.41,85.02,32.67,45,76.3,1.09,54.73,0,Average
+Andile Phehlukwayo,South Africa,11,31.45,55.45,38.9,31,85.5,1.18,42.22,0,Average
+Dwaine Pretorius,South Africa,32,27.72,76.99,30.82,78,55.3,2.9,61.46,1,Good
+Dean Elgar,South Africa,55,36.23,90.03,40.65,79,78.4,6.32,56.84,1,Good
+Neil McKenzie,South Africa,62,69.72,41.61,24.83,53,62.8,6.32,59.29,1,Good
+Alviro Petersen,South Africa,9,6.99,85.87,44.09,85,98.1,1.11,56.01,1,Good
+Jean-Paul Duminy,South Africa,9,45.29,61.75,52.99,91,74.2,1.12,62.09,1,Good
+Robin Peterson,South Africa,12,10.81,86.41,26.37,19,90.3,0.59,37.9,0,Below Average
+Imran Tahir,South Africa,68,27.92,59.73,25.54,32,77.5,7.77,48.16,0,Average
+Lonwabo Tsotsobe,South Africa,14,51.33,38.9,44.53,73,52.2,0.59,51.95,0,Average
+Chris Morris,South Africa,42,35.96,42.45,45.8,39,81.7,4.6,47.55,0,Average
+Kyle Abbott,South Africa,12,18.83,75.96,24.77,31,97.6,1.51,36.15,0,Below Average
+Daryn Smit,South Africa,29,24.27,80.19,25.8,113,80.1,2.66,78.2,1,Elite
+Morne van Wyk,South Africa,77,45.19,56.91,27.18,96,91.0,8.03,71.28,1,Elite
+Colin Ingram,South Africa,70,24.04,87.77,16.56,1,94.2,6.84,45.52,0,Average
+Rilee Rossouw,South Africa,54,38.25,41.77,20.81,96,61.4,5.06,61.95,1,Good
+Khaya Zondo,South Africa,71,35.68,73.68,19.96,32,60.6,7.33,46.62,0,Average
+Stiaan van Zyl,South Africa,53,25.23,50.78,22.32,104,80.5,4.8,63.46,1,Good
+Simon Harmer,South Africa,40,67.16,61.96,29.65,76,70.6,3.89,68.43,1,Good
+Junior Dala,South Africa,72,44.51,75.95,32.34,29,92.0,6.9,42.8,0,Average
+Beuran Hendricks,South Africa,45,5.0,57.79,45.51,32,95.0,4.33,34.89,0,Below Average
+Lutho Sipamla,South Africa,66,37.8,67.31,20.02,76,67.7,6.82,54.37,0,Average
+Glenton Stuurman,South Africa,14,25.07,95.13,39.84,115,61.8,1.1,64.23,1,Good
+Lizaad Williams,South Africa,25,47.79,63.46,27.86,25,89.0,2.4,51.39,0,Average
+Kane Williamson,New Zealand,40,23.11,91.71,29.51,21,63.7,3.75,38.86,0,Below Average
+Ross Taylor,New Zealand,16,33.28,52.41,36.75,102,91.1,2.32,68.64,1,Good
+Brendon McCullum,New Zealand,6,42.57,85.6,18.77,65,71.2,0.77,56.82,1,Good
+Tim Southee,New Zealand,17,47.99,103.83,33.82,37,83.4,1.81,57.05,1,Good
+Trent Boult,New Zealand,57,17.0,30.0,31.66,102,54.8,6.04,54.63,0,Average
+Martin Guptill,New Zealand,36,29.98,59.06,34.92,89,81.2,3.3,60.02,1,Good
+Daniel Vettori,New Zealand,20,27.88,86.54,32.89,45,72.6,2.43,41.83,0,Average
+Chris Cairns,New Zealand,36,25.2,70.94,54.55,113,79.3,3.77,67.39,1,Good
+Stephen Fleming,New Zealand,36,61.48,82.42,23.62,14,58.4,2.82,58.52,1,Good
+Nathan Astle,New Zealand,15,41.07,62.92,24.69,97,86.8,0.79,64.4,1,Good
+Mitchell McClenaghan,New Zealand,14,16.09,76.73,23.77,105,93.1,1.11,65.58,1,Good
+Adam Milne,New Zealand,19,48.77,71.89,24.45,118,60.8,1.24,71.12,1,Elite
+Lockie Ferguson,New Zealand,21,66.83,98.36,23.63,43,54.8,1.98,64.1,1,Good
+Matt Henry,New Zealand,44,50.49,80.09,41.89,48,51.2,3.89,61.18,1,Good
+Kyle Jamieson,New Zealand,22,12.21,81.75,44.21,103,82.1,2.15,61.44,1,Good
+Tom Latham,New Zealand,59,27.74,66.76,24.29,74,80.4,6.61,61.13,1,Good
+Devon Conway,New Zealand,77,54.0,65.25,21.68,60,77.3,7.68,62.51,1,Good
+Will Young,New Zealand,29,24.38,66.35,34.71,66,61.6,2.75,60.08,1,Good
+Daryl Mitchell,New Zealand,63,41.66,82.89,24.48,5,69.5,6.49,33.87,0,Below Average
+Glenn Phillips,New Zealand,26,46.62,66.58,36.33,8,79.7,2.25,41.25,0,Average
+Jimmy Neesham,New Zealand,34,21.1,80.8,32.03,5,74.8,3.82,28.16,0,Below Average
+Mitchell Santner,New Zealand,48,34.11,116.51,15.0,72,99.4,5.05,63.4,1,Good
+Ish Sodhi,New Zealand,36,5.0,92.42,45.48,102,56.8,3.62,51.73,0,Average
+Todd Astle,New Zealand,55,19.63,68.48,47.96,94,84.8,5.58,59.07,1,Good
+Colin de Grandhomme,New Zealand,50,31.21,99.02,23.87,31,70.2,6.02,49.74,0,Average
+Henry Nicholls,New Zealand,25,16.28,66.84,26.12,40,71.4,2.97,41.16,0,Average
+BJ Watling,New Zealand,36,59.49,34.24,32.86,113,85.9,4.7,67.52,1,Good
+Tom Blundell,New Zealand,43,13.55,54.84,33.34,75,84.6,4.57,45.73,0,Average
+Scott Kuggeleijn,New Zealand,16,28.4,37.58,36.59,7,99.6,0.86,26.11,0,Below Average
+Blair Tickner,New Zealand,51,36.96,67.97,50.1,71,56.4,4.97,60.0,1,Good
+Jacob Duffy,New Zealand,22,56.62,75.37,28.23,49,55.2,1.35,53.59,0,Average
+Ben Sears,New Zealand,25,13.46,108.53,22.02,91,86.2,2.76,61.94,1,Good
+Mark Chapman,New Zealand,17,52.45,81.54,16.21,61,78.9,2.07,66.28,1,Good
+Michael Bracewell,New Zealand,25,35.15,70.62,22.69,83,63.7,2.06,56.38,1,Good
+Rachin Ravindra,New Zealand,12,20.28,91.59,29.67,61,54.0,0.87,53.6,0,Average
+Chad Bowes,New Zealand,50,41.93,30.78,47.95,110,54.3,5.07,69.34,1,Good
+Finn Allen,New Zealand,11,37.99,79.71,24.82,6,94.7,0.5,43.36,0,Average
+Tim Seifert,New Zealand,27,26.0,90.42,32.24,74,59.6,2.06,61.15,1,Good
+Cole McConchie,New Zealand,79,36.05,45.43,29.84,83,66.2,8.52,44.66,0,Average
+Ajaz Patel,New Zealand,26,29.22,97.88,41.88,79,61.3,2.66,58.95,1,Good
+Neil Wagner,New Zealand,26,36.7,81.77,55.27,3,67.7,2.32,39.63,0,Below Average
+Colin Munro,New Zealand,33,44.93,66.69,24.69,5,53.5,2.45,32.9,0,Below Average
+Anton Devcich,New Zealand,17,58.79,87.66,25.11,57,76.0,2.13,66.79,1,Good
+Grant Elliott,New Zealand,6,16.43,120.41,40.44,21,53.4,0.26,47.59,0,Average
+Corey Anderson,New Zealand,33,67.0,78.64,36.82,25,90.0,4.23,49.63,0,Average
+Luke Ronchi,New Zealand,56,5.72,79.96,48.47,2,61.7,6.03,19.1,0,Below Average
+Peter Fulton,New Zealand,31,32.72,65.81,35.84,40,77.0,2.7,46.87,0,Average
+Rob Nicol,New Zealand,54,43.82,58.0,26.41,59,94.0,5.04,58.53,1,Good
+Dean Brownlie,New Zealand,27,39.21,91.61,35.91,105,82.5,3.56,77.45,1,Elite
+James Franklin,New Zealand,48,25.66,57.88,41.09,13,76.6,4.76,33.95,0,Below Average
+Ian Butler,New Zealand,26,31.88,76.43,38.2,74,66.2,2.34,59.17,1,Good
+Chris Martin,New Zealand,47,27.6,65.45,35.07,81,66.7,4.71,59.62,1,Good
+Iain O'Brien,New Zealand,41,26.16,84.58,40.67,117,83.5,3.84,68.76,1,Good
+Jeetan Patel,New Zealand,65,47.74,81.67,41.69,11,99.7,6.62,45.66,0,Average
+Daniel Flynn,New Zealand,60,40.36,95.75,43.82,86,83.1,5.96,68.56,1,Good
+Jesse Ryder,New Zealand,7,24.61,64.8,36.49,11,77.9,1.14,34.89,0,Below Average
+Scott Styris,New Zealand,67,48.49,69.6,28.33,12,86.5,6.51,42.27,0,Average
+Lou Vincent,New Zealand,23,39.61,55.42,31.47,24,73.3,1.86,39.49,0,Below Average
+Craig McMillan,New Zealand,27,47.19,66.11,42.07,44,53.0,2.53,52.59,0,Average
+Hamish Bennett,New Zealand,33,44.44,82.55,21.83,114,78.1,3.12,77.08,1,Elite

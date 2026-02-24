@@ -1,3 +1,5 @@
+# Week 1: Group Formation and Topic Finalization
+
 ## Project Topic
 Our team has chosen **Sports Analytics** as the project topic. The focus is to analyze real-world sports performance data to understand patterns, trends, and factors influencing player and team outcomes.
 
